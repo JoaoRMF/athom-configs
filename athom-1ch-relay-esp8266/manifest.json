@@ -1,0 +1,13 @@
+{
+  "chipFamily": "ESP8266",
+  "ota": {
+    "path": "athom-1ch-relay-esp8266/athom-1ch-relay-esp8266.ota.bin",
+    "md5": "78fc41f09de11cf83d439893ca7140bf"
+  },
+  "parts": [
+    {
+      "path": "athom-1ch-relay-esp8266/athom-1ch-relay-esp8266.factory.bin",
+      "offset": 0
+    }
+  ]
+}

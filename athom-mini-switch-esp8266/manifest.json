@@ -1,0 +1,13 @@
+{
+  "chipFamily": "ESP8266",
+  "ota": {
+    "path": "athom-mini-switch-esp8266/athom-mini-switch-esp8266.ota.bin",
+    "md5": "935e5c4fea49c3bf041d024a3baa9eb7"
+  },
+  "parts": [
+    {
+      "path": "athom-mini-switch-esp8266/athom-mini-switch-esp8266.factory.bin",
+      "offset": 0
+    }
+  ]
+}
