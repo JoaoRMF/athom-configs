@@ -2,7 +2,7 @@
   "chipFamily": "ESP8266",
   "ota": {
     "path": "athom-smart-plug-v2-esp8266/athom-smart-plug-v2-esp8266.ota.bin",
-    "md5": "09f6d2ecda0a4fc9e9c6237bdc2c9c3a"
+    "md5": "621234ee1c8ec30abfe8471e57389315"
   },
   "parts": [
     {
